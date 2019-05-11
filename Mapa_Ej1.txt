@@ -1,0 +1,4 @@
+numero de zonas:7
+V -> z1[bruja1-Bruja] z3[] z6[]
+H -> z2[player1-Player] z3[] z4[manzana1-Manzana]
+H -> z5[oscar1-Oscar] z6[] z7[princesa1-Princesa]
