@@ -18,8 +18,6 @@ int main()
     string linea;
     int n;
 
-    
-
 	//Extraemos numero de zonas
     getline(archivo_entrada, linea,':');
 	getline(archivo_entrada, linea);
